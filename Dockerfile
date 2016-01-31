@@ -1,4 +1,4 @@
-FROM quay.io/joshpurvis/alpine-base:3.3
+FROM joshpurvis/alpine-base:3.3
 
 ENV JAVA_VERSION=8 \
     JAVA_UPDATE=66 \
